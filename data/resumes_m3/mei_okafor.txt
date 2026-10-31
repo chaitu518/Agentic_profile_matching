@@ -1,0 +1,24 @@
+Mei Okafor
+Applied Scientist
+mei.okafor@example.com | +1-555-295-7732 | linkedin.com/in/mei
+
+About Me
+Engineer with 2+ years in Python, Machine Learning and PyTorch, passionate about clean design, measurable impact and mentoring.
+
+EXPERIENCE
+Applied Scientist - Nimbus Cloud
+May 2024 - Present
+- Trained PyTorch classifiers for fraud detection, lifting recall by 18% over the rules baseline
+- Built and deployed Machine Learning models in Python serving 2M+ predictions per day with p95 latency under 80ms
+- Designed feature pipelines with Pandas and scikit-learn, cutting training data prep time from days to hours
+- Fine-tuned transformer models for NLP tasks such as entity extraction and intent classification
+
+Tech Stack
+Python, ML, PyTorch, sklearn, Pandas, NLP, SQL, Spark
+
+Academic Background
+B.Tech in Computer Science, National University of Singapore (2024)
+
+Key Projects
+- Churn prediction with gradient boosting
+- Medical image segmentation with U-Net

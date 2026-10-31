@@ -1,0 +1,7 @@
+# Flow 4 - degree filter, re-weighting, explaining candidates, clearing the filter
+use jd01_senior_ml_engineer
+only Master's or higher
+prioritize experience
+why is #3 ranked there?
+any degree
+done

@@ -1,0 +1,28 @@
+John Mathew
+Senior Frontend Engineer
+john.mathew@example.com | +1-555-201-4410 | linkedin.com/in/john
+
+Professional Summary
+Senior Frontend Engineer with 6+ years building fast, accessible web apps in React, TypeScript and Next.js. Led the design-system team and mentored four engineers.
+
+Work Experience
+Senior Frontend Engineer - Pixelcraft Studios
+Oct 2022 - Present
+- Led the migration of the customer dashboard to Next.js and React, cutting time-to-interactive by 45%
+- Built a TypeScript component library and design system used by 6 product teams
+- Introduced Cypress and Jest test suites, raising coverage from 30% to 85%
+
+Frontend Engineer - Vertex Payments
+Sep 2020 - Sep 2022
+- Built checkout flows in React and Redux handling 1M+ payments per month
+- Optimised bundle size with code splitting and lazy loading, reducing load time by 38%
+- Worked with backend teams on GraphQL and REST API contracts
+
+Technical Skills
+React, TypeScript, JavaScript (ES6+), Next.js, Redux, HTML5, CSS3, Tailwind, GraphQL, Jest, Cypress, AWS
+
+Education
+B.Tech in Computer Science, BITS Pilani (2020)
+
+Certifications
+- Meta Front-End Developer Professional Certificate

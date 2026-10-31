@@ -1,0 +1,8 @@
+# Flow 5 - start vague, clarify, refine, compare by name and rank, switch to a new search
+hi there
+use jd04
+make Prometheus a must-have
+compare Diego and #2
+Now find Java developers with Kafka and Spring Boot, 4+ years, nice to have Kubernetes
+interview questions for #2
+done

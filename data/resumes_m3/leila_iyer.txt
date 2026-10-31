@@ -1,0 +1,35 @@
+Leila Iyer
+DevOps Engineer
+leila.iyer@example.com | +1-555-443-4834 | linkedin.com/in/leila
+
+Professional Summary
+Results-driven devops engineer (8+ yrs) focused on Kubernetes and Terraform. Comfortable owning features end to end and working with cross-functional teams.
+
+Work Experience
+DevOps Engineer - Sagewell Bank
+May 2025 - Present
+- Built CI/CD pipelines with GitHub Actions and ArgoCD, cutting release time from 2 days to 30 minutes
+- Managed 40+ Kubernetes clusters (EKS) running 600 services with zero-downtime upgrades
+
+Site Reliability Engineer - Kestrel AI
+Aug 2023 - Apr 2025
+- Hardened Linux base images and container builds with Docker, passing SOC2 audit
+- Introduced SLOs and alerting with Prometheus and Grafana, reducing pager noise by 50%
+
+Platform Engineer - Orbital Retail
+Nov 2018 - Jul 2023
+- Led incident reviews and capacity planning for peak traffic events
+- Wrote Terraform modules for VPCs, IAM and databases, making all AWS infra reproducible
+
+Core Skills
+Kubernetes, Terraform, AWS, Linux, Go, Prometheus, Azure, GCP
+
+EDUCATION
+B.Tech in Information Technology, BITS Pilani (2016)
+
+Key Projects
+- Cost dashboard for cloud spend
+- Self-service preview environments on Kubernetes
+
+Licenses & Certifications
+- Certified Kubernetes Administrator (CKA)

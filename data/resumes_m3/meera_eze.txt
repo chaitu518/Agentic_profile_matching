@@ -1,0 +1,32 @@
+Meera Eze
+Frontend Engineer
+meera.eze@example.com | +1-555-150-6003 | linkedin.com/in/meera
+
+SUMMARY
+Frontend Engineer with 3+ years of experience building production systems using React, TypeScript, HTML/CSS.
+
+Work Experience
+Frontend Engineer - Vertex Payments
+Feb 2025 - Present
+- Worked with designers to ship a new onboarding flow that increased activation by 12%
+- Migrated a legacy SPA to Next.js with server-side rendering, improving LCP by 40%
+- Managed complex client state with Redux and React Query for a trading dashboard
+
+Senior React Developer - Pixelcraft Studios
+Nov 2023 - Jan 2025
+- Implemented accessible, responsive layouts with HTML/CSS meeting WCAG 2.1 AA
+- Built a component library in React and TypeScript used by 6 product teams
+- Wrote end-to-end tests with Cypress and raised release confidence
+
+SKILLS
+React, TypeScript, HTML/CSS, Redux, Cypress, Angular, Docker
+
+EDUCATION
+B.Tech in Computer Science, University of Toronto (2022)
+
+Key Projects
+- Real-time collaborative whiteboard
+- Personal portfolio with Next.js
+
+CERTIFICATIONS
+- Meta Front-End Developer Certificate

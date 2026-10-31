@@ -1,0 +1,32 @@
+Samuel Novak
+Senior ML Engineer
+samuel.novak@example.com | +1-555-321-5749 | linkedin.com/in/samuel
+
+Profile
+Engineer with 3+ years in Python, Machine Learning and PyTorch, passionate about clean design, measurable impact and mentoring.
+
+Employment History
+Senior ML Engineer - Bluepeak Systems
+Nov 2025 - Present
+- Built and deployed Machine Learning models in Python serving 2M+ predictions per day with p95 latency under 80ms
+- Set up experiment tracking and model registry (MLflow) so the team could reproduce every run
+- Trained PyTorch classifiers for fraud detection, lifting recall by 18% over the rules baseline
+
+Senior ML Engineer - Trailhead Mobility
+Nov 2023 - Oct 2025
+- Led A/B tests for a recommendation model that raised click-through rate by 7%
+- Designed feature pipelines with Pandas and scikit-learn, cutting training data prep time from days to hours
+- Fine-tuned transformer models for NLP tasks such as entity extraction and intent classification
+
+Tech Stack
+Python, Machine Learning, PyTorch, scikit-learn, Pandas, NLP, MLOps, Docker, SQL
+
+Education
+B.Tech in Computer Science, NIT Warangal (2022)
+
+PROJECTS
+- Resume screening classifier using sentence embeddings
+- Churn prediction with gradient boosting
+
+Licenses & Certifications
+- DeepLearning.AI Deep Learning Specialization

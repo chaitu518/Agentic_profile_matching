@@ -1,0 +1,35 @@
+Ethan Fischer
+Senior Data Engineer
+ethan.fischer@example.com | +1-555-260-8313 | linkedin.com/in/ethan
+
+About Me
+Engineer with 8+ years in Python, Spark and Airflow, passionate about clean design, measurable impact and mentoring.
+
+Work Experience
+Senior Data Engineer - Vertex Payments
+Feb 2024 - Present
+- Rewrote legacy Hive jobs in Spark (PySpark), cutting compute cost by 35%
+- Built batch and streaming ETL pipelines with Spark processing 3TB of events per day
+
+Senior Data Engineer - Lumen Logistics
+May 2019 - Jan 2024
+- Implemented CDC ingestion from operational databases using Debezium
+- Partnered with ML engineers to deliver feature tables for model training
+
+Big Data Engineer - Bluepeak Systems
+Nov 2018 - Apr 2019
+- Modelled warehouse layers in Snowflake using dbt, giving analysts trusted, documented tables
+- Orchestrated 200+ DAGs in Airflow with SLAs, retries and data quality checks
+
+Technical Skills
+Python, Spark, Airflow, Snowflake, GCP, Terraform, Kafka, Scala
+
+Education
+B.Tech in Computer Science, University of Michigan (2016)
+
+Key Projects
+- Real-time clickstream pipeline
+- Data lake on S3 with Iceberg tables
+
+Certifications
+- Databricks Certified Data Engineer Associate

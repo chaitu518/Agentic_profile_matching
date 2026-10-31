@@ -1,0 +1,26 @@
+Ananya Silva
+QA Automation Engineer
+ananya.silva@example.com | +1-555-474-1753 | linkedin.com/in/ananya
+
+SUMMARY
+QA Automation Engineer with 3+ years of experience building production systems using Selenium, Test Automation, Java.
+
+SKILLS
+Selenium, Test Automation, Java, Postman, JUnit, Cypress, SQL, CI/CD, Agile
+
+Work Experience
+QA Automation Engineer - Vertex Payments
+Feb 2026 - Present
+- Built a Test Automation framework with Selenium and Java covering 1,200 regression cases
+- Reduced flaky tests by 80% through better waits and test data isolation
+
+SDET - Aurora Media
+Nov 2023 - Jan 2026
+- Automated API checks with Postman, catching contract breaks before release
+- Integrated test suites into CI so every pull request ran smoke tests in 8 minutes
+
+PROJECTS
+- Visual regression testing tool
+
+EDUCATION
+B.Sc in Computer Science, Georgia Tech (2022)

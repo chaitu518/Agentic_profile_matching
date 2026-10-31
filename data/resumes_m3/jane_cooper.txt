@@ -1,0 +1,23 @@
+Jane Cooper
+Frontend Developer
+jane.cooper@example.com | +1-555-418-2093 | linkedin.com/in/jane
+
+Profile
+Frontend developer with 2+ years building responsive, accessible interfaces with React and JavaScript. Passionate about accessibility and testing.
+
+Experience
+Frontend Developer - Orbital Retail
+Apr 2024 - Present
+- Built product listing and cart pages in React and JavaScript for 300k monthly shoppers
+- Improved accessibility to WCAG 2.1 AA across the storefront, fixing 120+ audit issues
+- Wrote Cypress end-to-end tests for the checkout journey
+
+Web Development Intern - Aurora Media
+Jan 2024 - Mar 2024
+- Built marketing pages with HTML, CSS and Tailwind
+
+Skills
+React, JavaScript, HTML, CSS, Tailwind, Cypress, Storybook, Figma
+
+Education
+B.Sc in Computer Science, University of Lagos (2023)

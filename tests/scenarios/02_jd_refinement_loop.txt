@@ -1,0 +1,7 @@
+# Flow 2 - JD file, iterative refinement with re-ranking and change explanation
+use jd05_frontend_react.txt
+Make Next.js a must-have and require 5+ years
+what changed?
+TypeScript is only a nice to have, remove HTML/CSS
+show the shortlist
+done

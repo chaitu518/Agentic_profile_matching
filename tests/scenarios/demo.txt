@@ -1,0 +1,8 @@
+# Demo video script (replay with: python chat_cli.py --trace --script tests/scenarios/demo.txt --delay 3)
+use jd05_frontend_react.txt
+Compare the top 3 matches side by side
+Why did John rank higher than Jane?
+Make Next.js a must-have and require 5+ years
+tell me about #2
+interview questions for #1
+done

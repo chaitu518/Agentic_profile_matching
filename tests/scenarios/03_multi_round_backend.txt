@@ -1,0 +1,6 @@
+# Flow 3 - multi-round screening on the Java JD, deep dive, borderline suggestions, interview questions
+use jd02
+tell me about #1
+show the report
+interview questions for #1
+done

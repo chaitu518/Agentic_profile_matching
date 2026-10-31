@@ -1,0 +1,24 @@
+Elena Pillai
+Mobile Engineer
+elena.pillai@example.com | +1-555-600-1403 | linkedin.com/in/elena
+
+SUMMARY
+Engineer with 2+ years in Kotlin, Android and Swift, passionate about clean design, measurable impact and mentoring.
+
+Professional Experience
+Mobile Engineer - Sagewell Bank
+May 2024 - Present
+- Reduced app start time by 35% through lazy loading and image caching
+- Shipped Android features in Kotlin for an app with 5M+ installs and 4.6 store rating
+- Integrated REST APIs with offline sync and conflict resolution
+- Built cross-platform screens with Flutter, sharing 70% of code between Android and iOS
+
+Tech Stack
+Kotlin, Android, Swift, iOS, Flutter, React Native, CI/CD
+
+Academic Background
+B.Tech in Computer Science, University of Lagos (2022)
+
+Key Projects
+- Habit tracker app
+- Offline-first notes app

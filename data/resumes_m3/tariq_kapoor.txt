@@ -1,0 +1,32 @@
+Tariq Kapoor
+Backend Engineer
+tariq.kapoor@example.com | +1-555-299-8710 | linkedin.com/in/tariq
+
+Professional Summary
+Backend Engineer with 8+ years of experience building production systems using Java, Spring Boot, Microservices.
+
+Employment History
+Backend Engineer - Nimbus Cloud
+Feb 2025 - Present
+- Designed REST APIs consumed by web and mobile clients, with contract tests and versioning
+- Introduced unit and integration testing standards, raising coverage from 45% to 82%
+
+Senior Java Developer - Kestrel AI
+Jul 2019 - Jan 2025
+- Migrated a monolith to event-driven Microservices using Kafka, reducing order processing delay by 60%
+- Developed Spring Boot microservices in Java 17 handling 15k requests per second for the payments platform
+
+Software Engineer - Backend - Aurora Media
+Nov 2018 - Jun 2019
+- Tuned MySQL queries and added Redis caching, cutting p99 latency from 900ms to 120ms
+- Implemented idempotent consumers and dead-letter queues for reliable event handling
+
+Tech Stack
+Java, Spring Boot, Microservices, REST APIs, MySQL, Kafka, Postgres, Redis, AWS, JUnit
+
+Academic Background
+B.E. in Information Technology, BITS Pilani (2017)
+
+PROJECTS
+- Library management system LLD
+- Rate limiter library using token bucket

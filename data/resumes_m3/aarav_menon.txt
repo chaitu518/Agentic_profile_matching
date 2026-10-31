@@ -1,0 +1,23 @@
+Aarav Menon
+Frontend Engineer
+aarav.menon@example.com | +1-555-758-3167 | linkedin.com/in/aarav
+
+Professional Summary
+Results-driven frontend engineer (2+ yrs) focused on React and TypeScript. Comfortable owning features end to end and working with cross-functional teams.
+
+Professional Experience
+Frontend Engineer - Helix Fintech
+May 2024 - Present
+- Implemented accessible, responsive layouts with HTML/CSS meeting WCAG 2.1 AA
+- Wrote end-to-end tests with Cypress and raised release confidence
+- Built a component library in React and TypeScript used by 6 product teams
+
+Technical Skills
+React, TypeScript, HTML/CSS, Next.js, GraphQL, Vue.js
+
+Education
+B.Des in Interaction Design, National University of Singapore (2022)
+
+Key Projects
+- Real-time collaborative whiteboard
+- Personal portfolio with Next.js

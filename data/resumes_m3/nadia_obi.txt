@@ -1,0 +1,24 @@
+Nadia Obi
+SDE 2
+nadia.obi@example.com | +1-555-954-2154 | linkedin.com/in/nadia
+
+Professional Summary
+SDE 2 with 2+ years of experience building production systems using Java, Spring Boot, Microservices.
+
+Employment History
+SDE 2 - Lumen Logistics
+May 2024 - Present
+- Tuned MySQL queries and added Redis caching, cutting p99 latency from 900ms to 120ms
+- Implemented idempotent consumers and dead-letter queues for reliable event handling
+- Migrated a monolith to event-driven Microservices using Kafka, reducing order processing delay by 60%
+- Owned on-call for three services and wrote runbooks that halved mean time to recovery
+
+Core Skills
+Java, Spring Boot, Microservices, REST APIs, MySQL, Kafka, JUnit, MongoDB
+
+Education
+M.S. in Software Engineering, University of Lagos (2022)
+
+Personal Projects
+- Ticket booking system with seat locking
+- Rate limiter library using token bucket

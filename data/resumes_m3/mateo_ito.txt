@@ -1,0 +1,35 @@
+Mateo Ito
+Data Analyst
+mateo.ito@example.com | +1-555-923-3243 | linkedin.com/in/mateo
+
+Profile
+Data Analyst with 8+ years of experience building production systems using SQL, Tableau, Excel.
+
+Work Experience
+Data Analyst - Kestrel AI
+Feb 2024 - Present
+- Ran A/B tests and Statistics reviews for pricing experiments across 3 markets
+- Wrote complex SQL queries and built Tableau dashboards tracking revenue and retention
+
+Business Intelligence Analyst - Quantia Labs
+Mar 2021 - Jan 2024
+- Automated weekly reporting in Excel and Python, saving the team 10 hours a week
+- Built Power BI reports for leadership on funnel conversion and churn drivers
+
+Product Analyst - Pixelcraft Studios
+Nov 2018 - Feb 2021
+- Automated weekly reporting in Excel and Python, saving the team 10 hours a week
+- Ran A/B tests and Statistics reviews for pricing experiments across 3 markets
+
+Core Skills
+SQL, Tableau, Excel, Power BI, Python, GCP, R, Pandas, Snowflake
+
+Academic Background
+MBA in Business Analytics, Anna University (2016)
+
+Personal Projects
+- Sales forecasting dashboard
+- Customer segmentation with k-means
+
+Licenses & Certifications
+- Tableau Desktop Specialist

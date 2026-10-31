@@ -1,0 +1,33 @@
+---
+title: Milestone 3 - Resume Matching Agent (LangGraph state machine)
+---
+flowchart TD
+    START([START]) --> parse_jd["parse_jd<br/><small>M1 tools: list_files / read_file<br/>(PDF · DOCX · TXT) or chat text</small>"]
+    parse_jd --> extract["extract_requirements<br/><small>M2 parse_job_description + sections<br/>must-have vs nice-to-have, alternatives, skill years</small>"]
+    extract -->|requirements found| search["search_resumes<br/><small>tool: rag_search = M2 JobMatcher<br/>ChromaDB semantic + BM25 over 100 resumes</small>"]
+    extract -->|nothing extracted| hf
+    search --> r1["rank_candidates · ROUND 1<br/><small>score all 100: must 45% · nice 15%<br/>experience 20% · M2 retrieval 20% → top 10</small>"]
+    r1 --> r2["deep_analysis · ROUND 2<br/><small>evidence depth, recency, seniority,<br/>M2 per-skill years · strengths & gaps</small>"]
+    r2 --> r3["final_recommendation · ROUND 3<br/><small>STRONG HIRE / HIRE / BORDERLINE / NO HIRE<br/>+ suggestions for borderline</small>"]
+    r3 --> report["generate_report<br/><small>M1 tool: write_file · ranking-change diff</small>"]
+    report --> hf{{"human_feedback<br/><small>interrupt() - wait for user<br/>intent router</small>"}}
+
+    hf -->|refine| refine["refine_requirements<br/><small>must/nice, years, degree, weights</small>"]
+    refine -->|re-rank| search
+    hf -->|new search| parse_jd
+    hf -->|compare| compare["compare<br/><small>tool: compare_candidates</small>"]
+    hf -->|why?| explain["explain"]
+    hf -->|changed?| changes["explain_changes"]
+    hf -->|questions| questions["interview_questions<br/><small>tool: generate_interview_questions</small>"]
+    hf -->|details| detail["candidate_report"]
+    hf -->|shortlist| show["show_ranking"]
+    hf -->|other| misc["help · general<br/><small>LLM tool loop (optional)</small>"]
+    compare & explain & changes & questions & detail & show & misc --> hf
+    hf -->|done| END([END])
+
+    classDef round fill:#eef6ff,stroke:#3b82f6
+    classDef loop fill:#fff7e6,stroke:#f59e0b
+    classDef reuse fill:#effaf1,stroke:#16a34a
+    class r1,r2,r3 round
+    class hf,refine loop
+    class parse_jd,search,report reuse

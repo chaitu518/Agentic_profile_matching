@@ -1,0 +1,32 @@
+Chloe Garcia
+Cloud Engineer
+chloe.garcia@example.com | +1-555-498-3954 | linkedin.com/in/chloe
+
+Profile
+Cloud Engineer with 3+ years of experience building production systems using Kubernetes, Docker, Terraform.
+
+Technical Skills
+Kubernetes, Docker, Terraform, AWS, CI/CD, Bash, Azure, Kafka
+
+EXPERIENCE
+Cloud Engineer - Helix Fintech
+Jul 2025 - Present
+- Introduced SLOs and alerting with Prometheus and Grafana, reducing pager noise by 50%
+- Built CI/CD pipelines with GitHub Actions and ArgoCD, cutting release time from 2 days to 30 minutes
+- Wrote Terraform modules for VPCs, IAM and databases, making all AWS infra reproducible
+
+Site Reliability Engineer - Cedar Health Tech
+Nov 2023 - Jun 2025
+- Led incident reviews and capacity planning for peak traffic events
+- Hardened Linux base images and container builds with Docker, passing SOC2 audit
+- Managed 40+ Kubernetes clusters (EKS) running 600 services with zero-downtime upgrades
+
+Personal Projects
+- Cost dashboard for cloud spend
+- Self-service preview environments on Kubernetes
+
+Education
+B.E. in Computer Science, University of Lagos (2022)
+
+Licenses & Certifications
+- AWS Certified Solutions Architect - Associate

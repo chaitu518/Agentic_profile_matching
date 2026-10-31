@@ -1,0 +1,217 @@
+{
+  "corpus": "data\\resumes_m3",
+  "embedder": "local:tfidf-lsa-128",
+  "summary": {
+    "M2 hybrid": {
+      "P@10 (grade 2)": 0.733,
+      "R-Prec (grade 2)": 0.835,
+      "nDCG@10": 0.97,
+      "wrong-family@10": 0.333
+    },
+    "M2 hybrid + filter": {
+      "P@10 (grade 2)": 0.767,
+      "R-Prec (grade 2)": 1.0,
+      "nDCG@10": 0.947,
+      "wrong-family@10": 1.667
+    },
+    "M3 round 1": {
+      "P@10 (grade 2)": 0.767,
+      "R-Prec (grade 2)": 0.951,
+      "nDCG@10": 0.989,
+      "wrong-family@10": 0.333
+    },
+    "M3 final (round 3)": {
+      "P@10 (grade 2)": 0.767,
+      "R-Prec (grade 2)": 1.0,
+      "nDCG@10": 1.0,
+      "wrong-family@10": 0.333
+    }
+  },
+  "per_jd": {
+    "jd01_senior_ml_engineer": {
+      "M2 hybrid": {
+        "P@10 (grade 2)": 0.5,
+        "R-Prec (grade 2)": 0.5,
+        "nDCG@10": 0.8934335978714227,
+        "wrong-family@10": 0
+      },
+      "M2 hybrid + filter": {
+        "P@10 (grade 2)": 0.6,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 0.8889173285594402,
+        "wrong-family@10": 4
+      },
+      "M3 round 1": {
+        "P@10 (grade 2)": 0.6,
+        "R-Prec (grade 2)": 0.8333333333333334,
+        "nDCG@10": 0.9386948373956705,
+        "wrong-family@10": 0
+      },
+      "M3 final (round 3)": {
+        "P@10 (grade 2)": 0.6,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 1.0,
+        "wrong-family@10": 0
+      },
+      "M3 decisions": {
+        "STRONG HIRE": 1,
+        "HIRE": 5,
+        "BORDERLINE": 4
+      }
+    },
+    "jd02_java_backend": {
+      "M2 hybrid": {
+        "P@10 (grade 2)": 0.8,
+        "R-Prec (grade 2)": 0.7777777777777778,
+        "nDCG@10": 0.9470910211381396,
+        "wrong-family@10": 0
+      },
+      "M2 hybrid + filter": {
+        "P@10 (grade 2)": 0.9,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 0.9778537632415402,
+        "wrong-family@10": 0
+      },
+      "M3 round 1": {
+        "P@10 (grade 2)": 0.9,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 1.0,
+        "wrong-family@10": 0
+      },
+      "M3 final (round 3)": {
+        "P@10 (grade 2)": 0.9,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 1.0,
+        "wrong-family@10": 0
+      },
+      "M3 decisions": {
+        "STRONG HIRE": 1,
+        "HIRE": 8,
+        "BORDERLINE": 1
+      }
+    },
+    "jd03_data_engineer": {
+      "M2 hybrid": {
+        "P@10 (grade 2)": 0.8,
+        "R-Prec (grade 2)": 0.875,
+        "nDCG@10": 0.997681234552023,
+        "wrong-family@10": 0
+      },
+      "M2 hybrid + filter": {
+        "P@10 (grade 2)": 0.8,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 0.9526046846973931,
+        "wrong-family@10": 2
+      },
+      "M3 round 1": {
+        "P@10 (grade 2)": 0.8,
+        "R-Prec (grade 2)": 0.875,
+        "nDCG@10": 0.997681234552023,
+        "wrong-family@10": 0
+      },
+      "M3 final (round 3)": {
+        "P@10 (grade 2)": 0.8,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 1.0,
+        "wrong-family@10": 0
+      },
+      "M3 decisions": {
+        "HIRE": 6,
+        "BORDERLINE": 4
+      }
+    },
+    "jd04_devops_sre": {
+      "M2 hybrid": {
+        "P@10 (grade 2)": 0.7,
+        "R-Prec (grade 2)": 0.8571428571428571,
+        "nDCG@10": 0.9805049096969509,
+        "wrong-family@10": 0
+      },
+      "M2 hybrid + filter": {
+        "P@10 (grade 2)": 0.7,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 0.9233846433583538,
+        "wrong-family@10": 0
+      },
+      "M3 round 1": {
+        "P@10 (grade 2)": 0.7,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 1.0,
+        "wrong-family@10": 0
+      },
+      "M3 final (round 3)": {
+        "P@10 (grade 2)": 0.7,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 1.0,
+        "wrong-family@10": 0
+      },
+      "M3 decisions": {
+        "HIRE": 5,
+        "BORDERLINE": 4,
+        "NO HIRE": 1
+      }
+    },
+    "jd05_frontend_react": {
+      "M2 hybrid": {
+        "P@10 (grade 2)": 1.0,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 1.0,
+        "wrong-family@10": 0
+      },
+      "M2 hybrid + filter": {
+        "P@10 (grade 2)": 1.0,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 1.0,
+        "wrong-family@10": 0
+      },
+      "M3 round 1": {
+        "P@10 (grade 2)": 1.0,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 1.0,
+        "wrong-family@10": 0
+      },
+      "M3 final (round 3)": {
+        "P@10 (grade 2)": 1.0,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 1.0,
+        "wrong-family@10": 0
+      },
+      "M3 decisions": {
+        "STRONG HIRE": 1,
+        "HIRE": 9
+      }
+    },
+    "jd06_data_analyst": {
+      "M2 hybrid": {
+        "P@10 (grade 2)": 0.6,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 1.0,
+        "wrong-family@10": 2
+      },
+      "M2 hybrid + filter": {
+        "P@10 (grade 2)": 0.6,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 0.9385770452417167,
+        "wrong-family@10": 4
+      },
+      "M3 round 1": {
+        "P@10 (grade 2)": 0.6,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 1.0,
+        "wrong-family@10": 2
+      },
+      "M3 final (round 3)": {
+        "P@10 (grade 2)": 0.6,
+        "R-Prec (grade 2)": 1.0,
+        "nDCG@10": 1.0,
+        "wrong-family@10": 2
+      },
+      "M3 decisions": {
+        "STRONG HIRE": 1,
+        "HIRE": 5,
+        "BORDERLINE": 1,
+        "NO HIRE": 3
+      }
+    }
+  }
+}

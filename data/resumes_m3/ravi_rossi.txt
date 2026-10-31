@@ -1,0 +1,32 @@
+Ravi Rossi
+Python Developer
+ravi.rossi@example.com | +1-555-794-7353 | linkedin.com/in/ravi
+
+Professional Summary
+Engineer with 3+ years in Python, Django and FastAPI, passionate about clean design, measurable impact and mentoring.
+
+Tech Stack
+Python, Django, FastAPI, PostgreSQL, REST APIs, Docker, RabbitMQ, k8s, GraphQL
+
+Professional Experience
+Python Developer - Sagewell Bank
+Jul 2025 - Present
+- Containerised services with Docker and automated deployments through CI pipelines
+- Wrote async background workers for invoice generation processing 500k jobs per day
+- Designed REST APIs for partner integrations with OAuth2 and rate limiting
+
+Backend Engineer (Python) - Vertex Payments
+Nov 2023 - Jun 2025
+- Built Django and FastAPI services in Python powering the customer onboarding flow
+- Added structured logging and tracing, making production debugging much faster
+- Optimised PostgreSQL schemas and indexes, reducing report generation time by 70%
+
+Personal Projects
+- Expense tracker API
+- URL shortener with analytics
+
+EDUCATION
+B.Tech in Computer Science, Georgia Tech (2023)
+
+Certifications
+- Python Institute PCAP

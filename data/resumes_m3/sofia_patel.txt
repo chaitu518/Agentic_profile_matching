@@ -1,0 +1,35 @@
+Sofia Patel
+Data Scientist
+sofia.patel@example.com | +1-555-974-2574 | linkedin.com/in/sofia
+
+About Me
+Data Scientist with 8+ years of experience building production systems using Python, Machine Learning, PyTorch.
+
+Professional Experience
+Data Scientist - Orbital Retail
+Aug 2024 - Present
+- Fine-tuned transformer models for NLP tasks such as entity extraction and intent classification
+- Mentored two junior data scientists and reviewed modelling code for statistical rigour
+
+Senior ML Engineer - Aurora Media
+Sep 2022 - Jul 2024
+- Designed feature pipelines with Pandas and scikit-learn, cutting training data prep time from days to hours
+- Trained PyTorch classifiers for fraud detection, lifting recall by 18% over the rules baseline
+
+Data Scientist - Pixelcraft Studios
+Nov 2018 - Aug 2022
+- Set up experiment tracking and model registry (MLflow) so the team could reproduce every run
+- Led A/B tests for a recommendation model that raised click-through rate by 7%
+
+Core Skills
+Python, Machine Learning, PyTorch, sklearn, Pandas, NLP, MLOps, Deep Learning, TensorFlow, LLMs
+
+EDUCATION
+B.Tech in Computer Science, TU Munich (2016)
+
+Key Projects
+- Medical image segmentation with U-Net
+- Churn prediction with gradient boosting
+
+Certifications
+- DeepLearning.AI Deep Learning Specialization

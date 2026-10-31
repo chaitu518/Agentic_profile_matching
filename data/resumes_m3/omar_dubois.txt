@@ -1,0 +1,23 @@
+Omar Dubois
+Big Data Engineer
+omar.dubois@example.com | +1-555-153-6225 | linkedin.com/in/omar
+
+Profile
+Big Data Engineer with 2+ years of experience building production systems using Python, Spark, Airflow.
+
+EXPERIENCE
+Big Data Engineer - Trailhead Mobility
+May 2024 - Present
+- Implemented CDC ingestion from operational databases using Debezium
+- Rewrote legacy Hive jobs in Spark (PySpark), cutting compute cost by 35%
+- Partnered with ML engineers to deliver feature tables for model training
+
+Core Skills
+Python, Spark, Airflow, SQL, Snowflake, Docker, GCP
+
+Academic Background
+B.Tech in Computer Science, TU Munich (2022)
+
+PROJECTS
+- Real-time clickstream pipeline
+- Data lake on S3 with Iceberg tables

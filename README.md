@@ -143,5 +143,6 @@ skill synonyms, and include hard distractors (Python backend devs vs an ML JD; j
 * Synthetic resumes are cleaner than real ones (no multi-column layouts or tables).
 * "5+ years Python" is enforced as total experience + skill present; per-skill years are extracted but not enforced.
 * The offline embedder misses vocabulary it never saw (e.g. *JVM* ≈ Java); use a neural provider for production.
-#   A g e n t i c _ p r o f i l e _ m a t c h i n g  
+#   A g e n t i c _ p r o f i l e _ m a t c h i n g 
+  
  
